@@ -40,3 +40,46 @@ SmartBear is behind some of the biggest names in the software space, including S
 **APIDoc.js:** apiDoc creates a documentation from API annotations in your source code.
 
 Unsuccessful API Call should be sent with an error code in the 5xxs Status.
+
+
+### SOAP Vs. REST:
+
+**KEY DIFFERENCES:**
+
+- SOAP stands for Simple Object Access Protocol whereas REST stands for Representational State Transfer.
+
+- SOAP is a protocol whereas REST is an architectural pattern.
+
+- SOAP uses service interfaces to expose its functionality to client applications while REST uses Uniform Service locators to access to the   components on the hardware device.
+
+- SOAP needs more bandwidth for its usage whereas REST doesn’t need much bandwidth.
+
+- SOAP only works with XML formats whereas REST work with plain text, XML, HTML and JSON.
+
+- SOAP cannot make use of REST whereas REST can make use of SOAP.
+
+
+
+
+References:
+
+https://www.guru99.com/comparison-between-web-services.html#:~:text=SOAP%20stands%20for%20Simple%20Object%20Access%20Protocol%20whereas,access%20to%20the%20components%20on%20the%20hardware%20device.
+
+https://techbeacon.com/app-dev-testing/11-top-open-source-api-testing-tools-what-your-team-needs-know
+
+https://www.soapui.org/downloads/soapui/
+
+https://mockoon.com/
+
+https://www.postman.com/features/mock-api/
+
+https://apidocjs.com/#getting-started
+
+https://swagger.io/about/
+
+https://moz.com/learn/seo/http-status-codes#:~:text=An%20HTTP%20status%20code%20is%20a%20server%20response,a%20conversation%20between%20your%20browser%20and%20the%20server.
+
+
+
+
+
